@@ -1,0 +1,39 @@
+body {
+background-color:  lightsalmon;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-right:8px;
+margin-left:5cm;
+}
+#navbar{
+     text-align:left;
+     padding: 5px;
+     position:fixed;
+     text-decoration:none;
+     font-style:tahoma,sans-serif;
+     font: size 500px;
+     min-width:100px ;
+     border-right:solid;
+     height:100%;
+     top:0px;
+     left:1px;
+     width:max-content;
+     margin:0px;
+
+ }
+    ul{
+        padding-top:12px;
+
+    }
+  
+ header{
+     color:green;
+     text-align:left;
+
+ }
+ #main-doc li{
+     list-style:upper roman;
+ }
+#main doc header{
+    text-align:left;
+    margin:0px;
+}
